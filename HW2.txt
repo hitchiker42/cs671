@@ -1,0 +1,10 @@
+Grading Notes for HW2 for tpm29
+
+
+Deductions: 0
+Tests: 67
+Total: 67
+
+Regrade Tests: 100
+Regrade: 93
+Total: 93

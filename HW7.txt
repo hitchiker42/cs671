@@ -1,0 +1,25 @@
+Grading Notes for HW7 for tpm29
+
+
+Deductions: 
+Tests: 58
+Bonus: 7
+
+Unless otherwise state, all points are given for manual testing
+Manual Testing:
+(10) run function?
+(2) 2.3 + 3.2 -2 cannot parse
+(2) x+1
+(2) x+
+(2) x=3 
+(2) x+1 -1 did not evaluate
+(2) y=z=2*x -2 exception
+(2) (x+y)*(z-1)+(2*z+x+y) -2 incorrect output
+(2) +=5 
+(2) + + + -1 did not evaluate
+(2) x=2.3=y=4 -1 did not set y
+
+Manual Total: 21
+
+
+Total: 86

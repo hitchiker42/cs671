@@ -1,0 +1,18 @@
+I made quite a few changes, most dramatically to the UtilClockTimer class which
+I completely rewrote from the ground up, I took a lot of ideas on how to
+implement this timer(and the SimpleClockTimer) from the source of the
+java.util.timer class(specifically the jdk8 (yes 8 not 7) version). I did not
+copy the code or anything just used it to write a more structured base for my
+timers, which is really what I should've done in the first place. I want to make
+clear the fact that I simply used the original code as an idea, there are some
+remnants of it in my code but the vast majority of what I wrote was purely my
+own.I made some changes to the clock class, but only in the areas regarding
+timers(i.e I didn't change any of the actual mechanics of the clock itself). I
+made changes to the timers in pretty much every area, i redid the
+synchronization, redid the timer catch up methods, redid the creation and
+excution of timer tasks and redid the creation of threads to run the
+tasks. There is at the moment still a slight problem with ActiveClocks catching
+up if updates are missed, but otherwise everything(including the bonus) passes
+fine. Also I just want to apologize about the output from my original code, I am
+not 100% sure why it gave so much output, but that really was a problem that I
+should've noticed.

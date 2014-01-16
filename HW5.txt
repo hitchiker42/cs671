@@ -1,0 +1,7 @@
+Grading Notes for HW5 for tpm29
+
+
+Deductions: 
+Tests: 90
+Bonus: 10
+Total: 100

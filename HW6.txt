@@ -1,0 +1,25 @@
+Grading Notes for HW6 for tpm29
+
+listSudoku.sml:28.12-28.24 Error: unbound structure: MiscList in path MiscList.seq
+listSudoku.sml:54.13-54.25 Error: unbound structure: MiscList in path MiscList.seq
+listSudoku.sml:87.49-87.61 Error: unbound structure: MiscList in path MiscList.seq
+listSudoku.sml:87.17-87.35 Error: unbound structure: MiscList in path MiscList.quickSort
+listSudoku.sml:98.46-98.58 Error: unbound structure: MiscList in path MiscList.seq
+listSudoku.sml:99.49-99.61 Error: unbound structure: MiscList in path MiscList.seq
+listSudoku.sml:100.48-100.60 Error: unbound structure: MiscList in path MiscList.seq
+listSudoku.sml:102.25-102.42 Error: unbound structure: MiscList in path MiscList.contains
+listSudoku.sml:110.20-110.33 Error: unbound structure: MiscList in path MiscList.popl
+listSudoku.sml:111.23-111.36 Error: unbound structure: MiscList in path MiscList.popl
+listSudoku.sml:112.22-112.35 Error: unbound structure: MiscList in path MiscList.popl
+listSudoku.sml:126.34-126.48 Error: unbound structure: MiscList in path MiscList.merge
+listSudoku.sml:178.24-178.38 Error: unbound structure: MiscList in path MiscList.clone
+listSudoku.sml:183.51-183.71 Error: unbound structure: MiscList in path MiscList.arr_to_list
+listSudoku.sml:183.20-183.40 Error: unbound structure: MiscList in path MiscList.arr_to_list
+listSudoku.sml:216.17-216.33 Error: unbound structure: MiscString in path MiscString.strip
+/usr/local/bin/sml: Fatal error -- Uncaught exception Error with 0
+ raised at ../compiler/TopLevel/interact/evalloop.sml:66.19-66.27
+
+
+Deductions: 
+Tests: 0
+Total: 0

@@ -1,0 +1,20 @@
+Grading Notes for HW1 for tpm29
+
+
+Did not compile with -Xlint -0
+  You should always compile with -Xlint, not just for debug ouput.
+  No warnings during compilation
+
+
+Javadoc
+  1 warning -0
+  html folder was created during compilation, but
+  not populated, had to remove and generate javadoc -1
+
+
+Tests: 79.2
+  cs671 directorye exists -3
+
+Regrade: 100
+
+Total: 92

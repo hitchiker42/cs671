@@ -1,0 +1,20 @@
+Grading Notes for HW4 for tpm29
+
+
+Deductions: 
+Automated Tests: 38
+Total: 38
+
+
+Manual:
+  Test1: 3
+    -2 Mary should be part of the game
+  Test2: 5
+  Test3: 2
+    -2 Jogn is in the game
+    -1 No final points printed
+  Test4: 3
+    -2 Second game missing
+Manual Total: 13
+
+Total: 51

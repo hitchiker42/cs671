@@ -1,0 +1,34 @@
+Grading Notes for HW3 for tpm29
+
+StackOverflowError, 5977 pages of output
+   not printing all of it
+
+Each item is worth 2 points
+  single left click toggles dot and does nothing outside a dot: 2
+  double-click sets to 0: 2
+  shift-double-click set to UTC: 1
+     does something but not UTC
+  right click starts and stops: 2
+  middle-click reverse direction: 1
+    lsb is on the left instead of the right
+ClockGUI Total: 8
+
+Deductions: 0
+Tests: 41
+Total: 49
+
+Each item is worth 2 points
+  single left click toggles dot and does nothing outside a dot: 2
+  double-click sets to 0: 2
+  shift-double-click set to UTC: 1
+     does something but not UTC
+  right click starts and stops: 2
+  middle-click reverse direction: 1
+    lsb is on the left instead of the right
+ClockGUI Total: 8
+
+Regrade Tests: 86
+Regrade Total: 96
+Old total no bonus: 49
+Regrade: 86
+Total: 86

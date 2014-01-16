@@ -1,0 +1,18 @@
+Grading Notes for HW8 for tpm29
+
+8.sml:35.13-35.20 Error: unbound variable or constructor: to_unit
+8.sml:40.24-40.26 Error: unbound variable or constructor: +=
+8.sml:40.23-40.27 Error: operator is not a function [literal]
+  operator: int
+  in expression:
+    n <errorvar>
+8.sml:40.28-40.38 Error: operator and operand don't agree [tycon mismatch]
+  operator domain: 'Z seq
+  operand:         'Y seq -> 'Y seq
+  in expression:
+    check tl
+...and many more...
+
+Deductions: 
+Tests: 
+Total: 0

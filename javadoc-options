@@ -1,0 +1,9 @@
+-d html
+-use
+-version
+-author
+-quiet
+-doctitle "CS-671, Spring 2013"
+-bottom 'Copyright 2013 Michel Charpentier.'
+-link http://java.sun.com/javase/7/docs/api/
+-package
